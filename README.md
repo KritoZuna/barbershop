@@ -1,0 +1,2 @@
+# barbershop
+repo untuk barbershop
