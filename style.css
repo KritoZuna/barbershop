@@ -1,0 +1,27 @@
+@font-face{
+    font-family: angel-bandit-demo;
+    src: url(angel-bandit-demo/AngelBanditDemoRegular.ttf);
+}
+#judul{
+    font-family: angel-bandit-demo;
+}
+
+@media screen and (max-width:560px){
+    #judul {
+        
+        font-size: 0.8em;
+    }
+}
+@media screen and (max-width:458px){
+    #judul {
+    
+        font-size: 0.7em;
+    }
+}
+@media screen and (max-width:440px){
+    #judul {
+    
+        font-size: 0.6em;
+    }
+}
+
